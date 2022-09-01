@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neil!
-- 👀 I’m interested in music, art, language, and neuroscience!
+- 👀 I’m interested in language and technology!
 - 🌱 I’m currently delving into programming fundamentals using Harvard's CS50 EdX course.
 - 💞️ I’m looking to collaborate on personal projects to increase my programming repertoire. 
 - 📫 How to reach me: neilhemm0@gmail.com
